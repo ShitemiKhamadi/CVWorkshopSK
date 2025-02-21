@@ -8,9 +8,9 @@ Shitemi Khamadi is a PhD Student at the Media School, Indiana University>
 
 ## Research Interests
 
-- **Environmental Communication:** image recognition, image generation, video captioning
-- **Journalism Studies:** meta-learning, incremental learning, transfer learning
-- **Information Disorder:** I do things.
+- **Environmental Communication:** environmental journalism.
+- **Journalism Studies:** media effects.
+- **Information Disorder:** misinformation, disinformation.
 
 {% include_relative _includes/education.md %}
 
