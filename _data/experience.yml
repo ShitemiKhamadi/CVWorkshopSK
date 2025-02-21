@@ -4,14 +4,14 @@ main:
     degreepath: PhD in Media Arts and Sciences # for type.education.
     institution: Indiana University
     department: Media School
-    advisors: Prof. James Shanahan # for type.education.
+    advisors: Dr. James Shanahan, Dr. Gerry Lanosga, Dr. Jason Peifer # for type.education.
     years: 2024 - Present
     notes: In Progress
     
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
-    department: Department
+    title: Associate Instructor and Research Assistant # for type.employment.
+    institution: Indiana University
+    department: Media School
     years: 2024 - Present
     
   - type: service
