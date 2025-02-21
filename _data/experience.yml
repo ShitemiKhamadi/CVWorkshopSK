@@ -1,12 +1,11 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    degreepath: PhD in Media Arts and Sciences # for type.education.
+    institution: Indiana University
+    department: Media School
+    advisors: Prof. James Shanahan # for type.education.
+    years: 2024 - Present
     notes: In Progress
     
   - type: job
