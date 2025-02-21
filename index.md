@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Shitemi Khamadi is a PhD Student at the Media School, Indiana University>
+Shitemi Khamadi is a PhD Student at the Media School, Indiana University
 
 ## Research Interests
 
