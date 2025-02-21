@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Shitemi Khamadi is a PhD Student at the Media School, Indiana University>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Environmental Communication:** image recognition, image generation, video captioning
+- **Journalism Studies:** meta-learning, incremental learning, transfer learning
+- **Information Disorder:** I do things.
 
 {% include_relative _includes/education.md %}
 
